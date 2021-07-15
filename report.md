@@ -8,7 +8,7 @@
 На тестирование затрачено: <1ч>
 
 В результате тестирования выявлены следующие дефекты:
-* [не правильная конечная сумма]<https://github.com/AlexRV83/Credit-Card-Number-Validator/issues/2>
+* [не верная конечная сумма](https://github.com/AlexRV83/money-transfer/issues/1)
 
 
 
