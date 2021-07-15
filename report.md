@@ -8,15 +8,15 @@
 На тестирование затрачено: <1ч>
 
 В результате тестирования выявлены следующие дефекты:
-* [не верная конечная сумма](https://github.com/AlexRV83/money-transfer/issues/1)
+* [Не верная сумма счета, после перевода средств на счет](https://github.com/AlexRV83/money-transfer/issues/1)
 
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Test case
-* Bug report
+* [Test case](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
+
 
 
 
